@@ -1,5 +1,5 @@
 def new_hash
-  new_hash= {}
+  new_hash= {"name": "Dwayne The Rock Johnson"}
 end
 
 def actor
